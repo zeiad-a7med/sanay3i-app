@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "403822214861",
+    "project_id": "sanay3i-a430c",
+    "storage_bucket": "sanay3i-a430c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403822214861:android:774072f6635e8cc760f384",
+        "android_client_info": {
+          "package_name": "com.example.sanayee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403822214861-e7k7u7il8oifjt4boq58a2e5n3dh76ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAE-wZ71nGgPiPIJ1XyNgUSrYS_H7Czq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403822214861-e7k7u7il8oifjt4boq58a2e5n3dh76ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
